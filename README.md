@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📝 Note Making App
 
 A frontend-only note-taking application built using **ReactJS**.
